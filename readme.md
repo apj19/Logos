@@ -8,5 +8,5 @@ Practices HTML, CSS and Tailwind CSS by bulding diffrent logos
 4. Cred Logo
 
 <!-- ![Cred Logo](./credlogo.JPG) -->
-<img src="./credlogo.JPG" alt="alt text" title="image Title" style=" border-radius:10px; " />
+<img src="./credlogo.JPG" alt="alt text" title="image Title" align="center"  />
 
