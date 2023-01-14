@@ -1,0 +1,17 @@
+tailwindcss
+
+<script src="https://cdn.tailwindcss.com"></script>
+
+
+creadted by
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dosis&display=swap" rel="stylesheet">
+
+
+<div class=" mt-8 font-[Dosis] font-[600] text-center">
+        <p>Coded by <a href="https://www.linkedin.com/in/akshay-jadhav-01737711b/" target="_blank">Akshay Jadhav</a></p>
+        <p>Github</p> 
+</div>
